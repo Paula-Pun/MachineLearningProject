@@ -50,16 +50,16 @@ Member Responsibilities:
 
 Everyone will be a developer i.e. contribute equally to coding our project.
 
-Sanjana Balusu 
-scribe - takes notes on ideas mentioned during meetings
-Ritvik Bhagawatula 
-editor - runs the final check through project submissions
-Roshni Dhanasekar 
+Sanjana Balusu:  
+scribe - takes notes on ideas mentioned during meetings. 
+Ritvik Bhagawatula:  
+editor - runs the final check through project submissions. 
+Roshni Dhanasekar:
 scheduler - organizes meeting time and plans topics to be discussed
-Rohan Kashiviswanathan 
-submitter - ensures that all deadlines are met on time 
-Paula Punmaneeluk 
-facilitator - initiates discussion to hear everyone’s ideas
+Rohan Kashiviswanathan:  
+submitter - ensures that all deadlines are met on time.  
+Paula Punmaneeluk:  
+facilitator - initiates discussion to hear everyone’s ideas. 
 
 
 Peer-reviewed sources:
