@@ -8,6 +8,8 @@ Data
 Source: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
 Below, we have listed the cell features that we will be looking at in more detail:
+
+
 <img width="414" alt="Screen Shot 2021-10-08 at 12 31 53 AM" src="https://user-images.githubusercontent.com/63989199/136498703-d7e5449e-1b7f-4517-a43f-1b4f07baf10f.png">
 
 
@@ -40,6 +42,7 @@ Discussion:
 There are several different combinations we can have with the ten cell attributes we highlighted. Each of them can have different values that change the probability of the cell being malignant. By having an accurate model that reflects which cell attributes lead to the highest chance of the cell being malignant, we can better diagnose patients. The advantage of accurate diagnosis is that it allows us to detect breast cancer early and lead to the highest chance of remission. 
 
 Proposed Timeline:
+
 <img width="630" alt="Screen Shot 2021-10-08 at 12 31 32 AM" src="https://user-images.githubusercontent.com/63989199/136498727-e2f029a0-3799-46c4-b55e-d564fb95932c.png">
 
 
